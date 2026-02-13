@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 
 // 18 images
 const images = [
-  "/game-photos/1.avif",
+  "/public/game-photos/1.avif",
   "/game-photos/2.avif",
   "/game-photos/3.avif",
   "/game-photos/4.avif",
