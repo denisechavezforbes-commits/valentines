@@ -8,25 +8,26 @@ import { useState, useEffect } from "react";
 
 // 18 images
 const images = [
-  "${basePath}/game-photos/1.avif",
-  "${basePath}/game-photos/2.avif",
-  "${basePath}/game-photos/3.avif",
-  "${basePath}/game-photos/4.avif",
-  "${basePath}/game-photos/5.avif",
-  "${basePath}/game-photos/6.avif",
-  "${basePath}/game-photos/7.avif",
-  "${basePath}/game-photos/8.avif",
-  "${basePath}/game-photos/9.avif",
-  "${basePath}/game-photos/10.avif",
-  "${basePath}/game-photos/11.avif",
-  "${basePath}/game-photos/12.avif",
-  "${basePath}/game-photos/13.avif",
-  "${basePath}/game-photos/14.avif",
-  "${basePath}/game-photos/15.avif",
-  "${basePath}/game-photos/16.avif",
-  "${basePath}/game-photos/17.avif",
-  "${basePath}/game-photos/18.avif",
+  `${basePath}/game-photos/1.avif`,
+  `${basePath}/game-photos/2.avif`,
+  `${basePath}/game-photos/3.avif`,
+  `${basePath}/game-photos/4.avif`,
+  `${basePath}/game-photos/5.avif`,
+  `${basePath}/game-photos/6.avif`,
+  `${basePath}/game-photos/7.avif`,
+  `${basePath}/game-photos/8.avif`,
+  `${basePath}/game-photos/9.avif`,
+  `${basePath}/game-photos/10.avif`,
+  `${basePath}/game-photos/11.avif`,
+  `${basePath}/game-photos/12.avif`,
+  `${basePath}/game-photos/13.avif`,
+  `${basePath}/game-photos/14.avif`,
+  `${basePath}/game-photos/15.avif`,
+  `${basePath}/game-photos/16.avif`,
+  `${basePath}/game-photos/17.avif`,
+  `${basePath}/game-photos/18.avif`,
 ];
+
 
 
 // Create 18 pairs of images (36 images in total)
