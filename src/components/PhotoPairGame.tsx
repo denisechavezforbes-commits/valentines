@@ -101,6 +101,7 @@ export default function PhotoPairGame({
             src={image}
             alt={`Image ${i + 1}`}
             fill
+            unoptimized
             className="object-cover"
             priority
           />
@@ -145,6 +146,7 @@ export default function PhotoPairGame({
                   src={images[index]}
                   alt={`Imagen ${index + 1}`}
                   fill
+                  unoptimized
                   className="rounded-sm lg:rounded-md object-cover"
                 />
               </motion.div>
