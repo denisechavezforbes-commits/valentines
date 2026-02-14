@@ -4,6 +4,9 @@ const nextConfig: NextConfig = {
   output: "export",
   basePath: "/valentines",
   assetPrefix: "/valentines/",
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
