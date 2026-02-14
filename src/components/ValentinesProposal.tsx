@@ -4,6 +4,8 @@ import { motion, AnimatePresence } from "framer-motion";
 import Fireworks from "@fireworks-js/react";
 import Image from "next/image";
 
+const basePath = process.env.NODE_ENV === "production" ? "/valentines" : "";
+
 const playfairDisplay = Playfair_Display({
   display: "swap",
   subsets: ["latin"],
