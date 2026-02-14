@@ -178,7 +178,7 @@ export default function ValentinesProposal() {
             exit={{ opacity: 0 }}
           >
             Happy Valentines day love!! Hoped you enjoy this game. To many more!! Haha. I love you! 💕
-            <p className="text-sm mt-4">For more information, write me!!! 💌</p>
+            <p className="text-sm mt-4">Tara na at magcelebrate hahaha!!! 💌</p>
             <Image
               src="/valentines/hamster_jumping.gif"
               alt="Hamster Feliz"
