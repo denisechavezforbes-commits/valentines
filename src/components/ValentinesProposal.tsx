@@ -137,7 +137,7 @@ export default function ValentinesProposal() {
               Will you be my Valentine?
             </h2>
             <Image
-              src="/sad_hamster.png"
+              src="/valentines/sad_hamster.png"
               alt="Sad Hamster"
               width={200}
               height={200}
@@ -177,10 +177,10 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for accepting, I love you! 💕
+            Happy Valentines day love!! Hoped you enjoy this game. To many more!! Haha. I love you! 💕
             <p className="text-sm mt-4">For more information, write me!!! 💌</p>
             <Image
-              src="/hamster_jumping.gif"
+              src="/valentines/hamster_jumping.gif"
               alt="Hamster Feliz"
               width={200}
               height={200}
